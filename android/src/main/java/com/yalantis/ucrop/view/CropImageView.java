@@ -22,7 +22,7 @@ import com.yalantis.ucrop.util.RectUtils;
 import java.lang.ref.WeakReference;
 import java.util.Arrays;
 
-import cn.finalteam.rxgalleryfinal.R;
+import cn.finalteam.rxgalleryfinalprovider.R;
 
 /**
  * Created by Oleksii Shliama (https://github.com/shliama).

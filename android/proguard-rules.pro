@@ -66,7 +66,7 @@
 -keep class uk.co.senab.photoview** { *; }
 -keep interface uk.co.senab.photoview** { *; }
 
-#7.rxgalleryfinal
+#7.rxgalleryfinalprovider
 -keep class cn.finalteam.rxgalleryfinal.ui.widget** { *; }
 
 -keepclassmembers class * extends android.app.Activity {

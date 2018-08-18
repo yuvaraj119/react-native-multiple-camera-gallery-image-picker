@@ -1,6 +1,6 @@
 {
-  "name": "react-native-multiple-image-picker",
-  "version": "0.7.3",
+  "name": "react-native-multiple-camera-gallery-image-picker",
+  "version": "0.0.1",
   "description": "React Native Multiple Camera Gallery Image Picker",
   "main": "index.js",
   "scripts": {

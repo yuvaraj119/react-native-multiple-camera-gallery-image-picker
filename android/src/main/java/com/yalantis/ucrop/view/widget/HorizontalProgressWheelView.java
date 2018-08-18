@@ -12,7 +12,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import cn.finalteam.rxgalleryfinal.R;
+import cn.finalteam.rxgalleryfinalprovider.R;
 
 
 /**

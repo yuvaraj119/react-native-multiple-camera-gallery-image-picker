@@ -16,12 +16,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import cn.finalteam.rxgalleryfinal.RxGalleryFinal;
-import cn.finalteam.rxgalleryfinal.imageloader.ImageLoaderType;
-import cn.finalteam.rxgalleryfinal.rxbus.RxBusResultSubscriber;
-import cn.finalteam.rxgalleryfinal.rxbus.event.ImageMultipleResultEvent;
-import cn.finalteam.rxgalleryfinal.rxbus.event.ImageRadioResultEvent;
-import cn.finalteam.rxgalleryfinal.bean.MediaBean;
+import cn.finalteam.rxgalleryfinalprovider.RxGalleryFinal;
+import cn.finalteam.rxgalleryfinalprovider.imageloader.ImageLoaderType;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.RxBusResultSubscriber;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.event.ImageMultipleResultEvent;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.event.ImageRadioResultEvent;
+import cn.finalteam.rxgalleryfinalprovider.bean.MediaBean;
 
 /**
  * Created by tshen on 16/8/10.

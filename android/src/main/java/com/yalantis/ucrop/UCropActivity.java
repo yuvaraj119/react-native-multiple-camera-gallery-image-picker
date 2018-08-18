@@ -43,20 +43,20 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-import cn.finalteam.rxgalleryfinal.R;
-import cn.finalteam.rxgalleryfinal.bean.ImageCropBean;
-import cn.finalteam.rxgalleryfinal.bean.MediaBean;
-import cn.finalteam.rxgalleryfinal.di.component.BaseComponent;
-import cn.finalteam.rxgalleryfinal.di.component.DaggerBaseComponent;
-import cn.finalteam.rxgalleryfinal.di.component.RxGalleryFinalComponent;
-import cn.finalteam.rxgalleryfinal.di.module.BaseModule;
-import cn.finalteam.rxgalleryfinal.rxbus.RxBus;
-import cn.finalteam.rxgalleryfinal.rxbus.event.BaseResultEvent;
-import cn.finalteam.rxgalleryfinal.rxbus.event.CloseRxMediaGridPageEvent;
-import cn.finalteam.rxgalleryfinal.rxbus.event.ImageRadioResultEvent;
-import cn.finalteam.rxgalleryfinal.ui.activity.BaseActivity;
-import cn.finalteam.rxgalleryfinal.utils.Logger;
-import cn.finalteam.rxgalleryfinal.utils.ThemeUtils;
+import cn.finalteam.rxgalleryfinalprovider.R;
+import cn.finalteam.rxgalleryfinalprovider.bean.ImageCropBean;
+import cn.finalteam.rxgalleryfinalprovider.bean.MediaBean;
+import cn.finalteam.rxgalleryfinalprovider.di.component.BaseComponent;
+import cn.finalteam.rxgalleryfinalprovider.di.component.DaggerBaseComponent;
+import cn.finalteam.rxgalleryfinalprovider.di.component.RxGalleryFinalComponent;
+import cn.finalteam.rxgalleryfinalprovider.di.module.BaseModule;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.RxBus;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.event.BaseResultEvent;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.event.CloseRxMediaGridPageEvent;
+import cn.finalteam.rxgalleryfinalprovider.rxbus.event.ImageRadioResultEvent;
+import cn.finalteam.rxgalleryfinalprovider.ui.activity.BaseActivity;
+import cn.finalteam.rxgalleryfinalprovider.utils.Logger;
+import cn.finalteam.rxgalleryfinalprovider.utils.ThemeUtils;
 
 /**
  * Created by Oleksii Shliama (https://github.com/shliama).//b2b7690

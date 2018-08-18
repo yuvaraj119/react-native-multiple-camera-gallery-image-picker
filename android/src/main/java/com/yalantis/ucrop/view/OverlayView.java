@@ -18,7 +18,7 @@ import android.view.View;
 import com.yalantis.ucrop.callback.OverlayViewChangeListener;
 import com.yalantis.ucrop.util.RectUtils;
 
-import cn.finalteam.rxgalleryfinal.R;
+import cn.finalteam.rxgalleryfinalprovider.R;
 
 /**
  * Created by Oleksii Shliama (https://github.com/shliama).

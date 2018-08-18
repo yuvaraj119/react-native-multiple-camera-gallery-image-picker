@@ -21,7 +21,7 @@ import com.yalantis.ucrop.view.CropImageView;
 
 import java.util.Locale;
 
-import cn.finalteam.rxgalleryfinal.R;
+import cn.finalteam.rxgalleryfinalprovider.R;
 
 /**
  * Created by Oleksii Shliama (https://github.com/shliama).

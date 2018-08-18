@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <cn.finalteam.rxgalleryfinal.ui.widget.RecyclerViewFinal
+    <cn.finalteam.rxgalleryfinalprovider.ui.widget.RecyclerViewFinal
         android:id="@+id/rv_media"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="cn.finalteam.rxgalleryfinal">
+    package="cn.finalteam.rxgalleryfinalprovider">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -10,7 +10,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="cn.finalteam.rxgalleryfinal.provider"
+            android:authorities="cn.finalteam.rxgalleryfinalprovider.provider"
             android:exported="false"
             android:grantUriPermissions="true"
             tools:replace="android:authorities">

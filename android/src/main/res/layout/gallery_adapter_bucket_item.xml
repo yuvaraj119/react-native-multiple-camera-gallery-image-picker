@@ -7,7 +7,7 @@
     android:layout_margin="@dimen/gallery_margin"
     android:gravity="center">
 
-    <cn.finalteam.rxgalleryfinal.ui.widget.SquareImageView
+    <cn.finalteam.rxgalleryfinalprovider.ui.widget.SquareImageView
         android:id="@+id/iv_bucket_cover"
         android:layout_width="72dp"
         android:layout_height="72dp"

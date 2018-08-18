@@ -17,8 +17,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Locale;
 
-import cn.finalteam.rxgalleryfinal.BuildConfig;
-import cn.finalteam.rxgalleryfinal.bean.MediaBean;
+import cn.finalteam.rxgalleryfinalprovider.BuildConfig;
+import cn.finalteam.rxgalleryfinalprovider.bean.MediaBean;
 
 /**
  * Created by Oleksii Shliama (https://github.com/shliama).

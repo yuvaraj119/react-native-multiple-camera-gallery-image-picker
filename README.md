@@ -19,14 +19,14 @@ React Native Multiple Image Picker 多图片选择器 是一个 React Native 原
 
 ### iOS
 
-1. Run `npm install --save liaoyuan-io/react-native-multiple-image-picker` .
+1. Download and copy this libray into node modules folder.
 2. Add `RCTMultipleImagePicker` to your iOS project.
 3. Add `libRCTMultipleImagePicker.a` to your `Link Binary with Libraries` section in `Build Phases` .
 4. Add `TZImagePickerController.bundle` to your `Resources` group and `Copy Bundle Resources` section in `Build Phases` .
 
 ### Android
 
-1. Run `npm install --save liaoyuan-io/react-native-multiple-image-picker` .
+1. Download and copy this libray into node modules folder.
 2. Add `new MultipleImagePickerPackage()` to your `getPackages` return in `android/app/src/main/java/com/your/path/MainApplication.java`.
 3. Add following to your `android/app/src/main/AndroidManifest.xml`:
     ```
@@ -41,18 +41,18 @@ React Native Multiple Image Picker 多图片选择器 是一个 React Native 原
                 android:exported="true"
                 android:screenOrientation="portrait"/>
     ```
-4. Add `compile project(':react-native-multiple-image-picker')` to `dependencies` section in `android/app/build.gradle` .
+4. Add `compile project(':react-native-multiple-camera-gallery-image-picker')` to `dependencies` section in `android/app/build.gradle` .
 5. Add following to your `android/settings.gradle`:
 
     ```
-    include ':react-native-multiple-image-picker'
-    project(':react-native-multiple-image-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-multiple-image-picker/android')
+    include ':react-native-multiple-camera-gallery-image-picker'
+    project(':react-native-multiple-camera-gallery-image-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-multiple-camera-gallery-image-picker/android')
     ```
     
 ## Usage
 
 ```javascript
-import MultipleImagePicker from 'react-native-multiple-image-picker';
+import MultipleImagePicker from 'react-native-multiple-camera-gallery-image-picker';
 
 const options = {
     maxImagesCount: 9,      // Max number of images user can select; if maxImagesCount == 1, Single mode (i.e. Tap to Select & Finish) will be activated.

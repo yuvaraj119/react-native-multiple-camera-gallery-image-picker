@@ -24,7 +24,7 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 
-import cn.finalteam.rxgalleryfinal.ui.widget.FixImageView;
+import cn.finalteam.rxgalleryfinalprovider.ui.widget.FixImageView;
 import uk.co.senab.photoview.PhotoViewAttacher.OnMatrixChangedListener;
 import uk.co.senab.photoview.PhotoViewAttacher.OnPhotoTapListener;
 import uk.co.senab.photoview.PhotoViewAttacher.OnViewTapListener;

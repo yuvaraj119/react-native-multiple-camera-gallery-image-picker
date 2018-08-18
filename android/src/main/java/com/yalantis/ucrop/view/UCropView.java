@@ -11,7 +11,7 @@ import android.widget.FrameLayout;
 import com.yalantis.ucrop.callback.CropBoundsChangeListener;
 import com.yalantis.ucrop.callback.OverlayViewChangeListener;
 
-import cn.finalteam.rxgalleryfinal.R;
+import cn.finalteam.rxgalleryfinalprovider.R;
 
 public class UCropView extends FrameLayout {
 
