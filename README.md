@@ -2,7 +2,7 @@
 
 Its the copy of react-native-multiple-image-picker with updated version
 
-What's new : -
+What's new for Android : -
 1. Added runtime permission for camera, write permission and if API>=24 FileProvider is added  
 
 # react-native-multiple-image-picker
